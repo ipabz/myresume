@@ -407,25 +407,25 @@
 
           <div class="row">
             <div class="col-xs-6 col-md-3">
-              <a href="//factorydirect.net.au/" target="_blank" class="thumbnail">
+              <a href="//vamba.com/" target="_blank" class="thumbnail">
                 <img src="/assets/images/vamba.PNG" alt="Collaboration Portal">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
-              <a href="//mpr.directbooks.biz/" target="_blank" class="thumbnail">
+              <a href="//hawaiivagames.com/" target="_blank" class="thumbnail">
                 <img src="/assets/images/games.PNG" alt="Hawaii VA Games">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
-              <a target="_blank" class="thumbnail">
+              <a href="//learn.hawaiivaloans.com" target="_blank" class="thumbnail">
                 <img src="/assets/images/learn.PNG" alt="Learn Hawaii VA Loans Landing Pages">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
-              <a target="_blank" class="thumbnail">
+              <a href="//summit.hawaiivaloans.com" target="_blank" class="thumbnail">
                 <img src="/assets/images/summer.PNG" alt="Summer Summit">
               </a>
             </div>
