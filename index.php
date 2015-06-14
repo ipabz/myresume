@@ -408,25 +408,25 @@
           <div class="row">
             <div class="col-xs-6 col-md-3">
               <a href="//factorydirect.net.au/" target="_blank" class="thumbnail">
-                <img src="/assets/images/vamba.png" alt="Collaboration Portal">
+                <img src="/assets/images/vamba.PNG" alt="Collaboration Portal">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//mpr.directbooks.biz/" target="_blank" class="thumbnail">
-                <img src="/assets/images/games.png" alt="Hawaii VA Games">
+                <img src="/assets/images/games.PNG" alt="Hawaii VA Games">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a target="_blank" class="thumbnail">
-                <img src="/assets/images/learn.png" alt="Learn Hawaii VA Loans Landing Pages">
+                <img src="/assets/images/learn.PNG" alt="Learn Hawaii VA Loans Landing Pages">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a target="_blank" class="thumbnail">
-                <img src="/assets/images/summer.png" alt="Summer Summit">
+                <img src="/assets/images/summer.PNG" alt="Summer Summit">
               </a>
             </div>
             
@@ -435,13 +435,13 @@
           <div class="row">
             <div class="col-xs-6 col-md-3">
               <a href="//factorydirect.net.au/" target="_blank" class="thumbnail">
-                <img src="/assets/images/factorydirect.png" alt="Factory Direct .Net .Au">
+                <img src="/assets/images/factorydirect.PNG" alt="Factory Direct .Net .Au">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//mpr.directbooks.biz/" target="_blank" class="thumbnail">
-                <img src="/assets/images/mpr.png" alt="My Place Rental">
+                <img src="/assets/images/mpr.PNG" alt="My Place Rental">
               </a>
             </div>
 
@@ -468,7 +468,7 @@
 
             <div class="col-xs-6 col-md-3">
               <a href="//mpr.directbooks.biz/" target="_blank" class="thumbnail">
-                <img src="/assets/images/mmp.png" alt="My Mobile Patron">
+                <img src="/assets/images/mmp.PNG" alt="My Mobile Patron">
               </a>
             </div>
 
