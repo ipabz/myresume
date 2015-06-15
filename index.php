@@ -405,6 +405,8 @@
           <h2><span class="glyphicon glyphicon-bookmark"></span> Recent Work</h2>
           <br />
 
+          
+
           <div class="row">
             <div class="col-xs-6 col-md-3">
               <a href="//vamba.com/" target="_blank" class="thumbnail">
@@ -431,6 +433,40 @@
             </div>
             
           </div>
+
+
+
+          <div class="row">
+            
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//hawaiivaloans.com/" target="_blank" class="thumbnail">
+                <img src="/assets/images/hvl.PNG" alt="Hawaii VA Games">
+              </a>
+            </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//demo.ivanclintpabelona.com/ebook_classifier" target="_blank" class="thumbnail">
+                <img src="/assets/images/ebook_classifier.PNG" alt="Ebook Classifier">
+              </a>
+            </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//mymobilepatron.com/" target="_blank" class="thumbnail">
+                <img src="/assets/images/mmp.PNG" alt="My Mobile Patron">
+              </a>
+            </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a target="_blank" class="thumbnail">
+                <img src="/assets/images/ehymnal.PNG" alt="E-Hymnal">
+              </a>
+            </div>
+            
+          </div>
+
+
+
 
           <div class="row">
             <div class="col-xs-6 col-md-3">
@@ -461,14 +497,16 @@
 
           <div class="row">
             <div class="col-xs-6 col-md-3">
-              <a href="//factorydirect.net.au/" target="_blank" class="thumbnail">
+              <a target="_blank" class="thumbnail">
                 <img src="/assets/images/dtr.png" alt="Online DTR">
               </a>
             </div>
 
+            
+
             <div class="col-xs-6 col-md-3">
-              <a href="//mpr.directbooks.biz/" target="_blank" class="thumbnail">
-                <img src="/assets/images/mmp.PNG" alt="My Mobile Patron">
+              <a target="_blank" class="thumbnail">
+                <img src="/assets/images/digital-story.PNG" alt="Learn Hawaii VA Loans Landing Pages">
               </a>
             </div>
 
