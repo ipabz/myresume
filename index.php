@@ -458,8 +458,8 @@
             </div>
 
             <div class="col-xs-6 col-md-3">
-              <a target="_blank" class="thumbnail">
-                <img src="/assets/images/ehymnal.PNG" alt="E-Hymnal">
+              <a href="//hawaiiva.org" target="_blank" class="thumbnail">
+                <img src="/assets/images/hawaiiva.PNG" alt="Hawaii VA Foundation">
               </a>
             </div>
             
@@ -506,7 +506,13 @@
 
             <div class="col-xs-6 col-md-3">
               <a target="_blank" class="thumbnail">
-                <img src="/assets/images/digital-story.PNG" alt="Learn Hawaii VA Loans Landing Pages">
+                <img src="/assets/images/digital-story.PNG" alt="Digital Story">
+              </a>
+            </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a target="_blank" class="thumbnail">
+                <img src="/assets/images/ehymnal.PNG" alt="E-Hymnal">
               </a>
             </div>
 
