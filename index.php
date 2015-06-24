@@ -516,6 +516,12 @@
               </a>
             </div>
 
+            <div class="col-xs-6 col-md-3">
+              <a href="//2014.hawaiivagames.com/" target="_blank" class="thumbnail">
+                <img src="/assets/images/hvg2014.PNG" alt="E-Hymnal">
+              </a>
+            </div>
+
             
             
           </div>
