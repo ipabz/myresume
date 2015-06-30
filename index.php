@@ -260,6 +260,7 @@
           <br />
 
           <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+            <!--
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingOne">
                 <h4 class="panel-title">
@@ -276,6 +277,7 @@
                 </div>
               </div>
             </div>
+            -->
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingTwo">
                 <h4 class="panel-title">
@@ -284,7 +286,7 @@
                   </a>
                 </h4>
               </div>
-              <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+              <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
                 <div class="panel-body">
                   <div>Responsibilities</div>
                   <p>
