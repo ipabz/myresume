@@ -1,1 +1,2 @@
-<?php shell_exec('git pull origin master');
+<?php exec("git pull origin master");
+echo 'Repo Updated: '.date('F d, Y h:i a');
