@@ -68,7 +68,7 @@
       <div class="row" id="about-me">
         <div class="col-xs-12 col-md-3">
           <a class="thumbnail mypic">
-            <img src="/assets/images/meUpdated.jpg" alt="Picture of myself">
+            <img src="/assets/images/ivan.jpg" alt="Picture of myself">
           </a>
         </div>
         
