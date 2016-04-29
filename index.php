@@ -259,24 +259,31 @@
           <br />
 
           <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-            <!--
+          
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingOne">
                 <h4 class="panel-title">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    May 2015 to Present - Web Developer @ Squiggle Group
+                    May 2015 to Present - Senior Web Developer @ Squiggle Group, LLC
                   </a>
                 </h4>
               </div>
               <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                 <div class="panel-body">
+                  <div>Responsibilities</div>
                   <p>
-                    Responsible for developing web apps that are needed by the company.
+                    <ul>
+                      <li>PHP programming ­ Maintaining and creating applications, api integrations and databases</li>
+                      <li>Urgent bug fixes</li>
+                      <li>Linux server maintenance</li>
+                      <li>Testing all code committed</li>
+                    </ul>
                   </p>
+                  
                 </div>
               </div>
             </div>
-            -->
+            
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingTwo">
                 <h4 class="panel-title">
