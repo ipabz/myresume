@@ -163,7 +163,6 @@
                   <a class="label label-default">CodeIgniter</a>
                   <a class="label label-default">Laravel</a>
                    <a class="label label-default">Slim</a>
-                  <a class="label label-default">Symfony</a>
                   
                 </h5>
               </div>
