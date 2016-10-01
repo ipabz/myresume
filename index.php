@@ -420,7 +420,7 @@
 
             <div class="col-xs-6 col-md-3">
               <a href="//hirecall.ivanclintpabelona.com/" target="_blank" class="thumbnail">
-                <img src="/assets/images/vamba.PNG" alt="Collaboration Portal">
+                <img src="/assets/images/hc.png" alt="Collaboration Portal">
               </a>
             </div>
 
