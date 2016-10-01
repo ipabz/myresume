@@ -58,7 +58,7 @@
       <div class="row">
         <div class="col-xs-12 col-md-12">
           <div class="text-right">
-            <a style="display: none" href=""><span class="glyphicon glyphicon-save"></span> Download PDF </a>
+            <a style="" href="/assets/ivanclintpabelona-myresume.pdf"><span class="glyphicon glyphicon-save"></span> Download PDF </a>
           </div>
         </div>
       </div>
