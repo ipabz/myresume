@@ -417,6 +417,13 @@
           
 
           <div class="row">
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//hirecall.ivanclintpabelona.com/" target="_blank" class="thumbnail">
+                <img src="/assets/images/vamba.PNG" alt="Collaboration Portal">
+              </a>
+            </div>
+
             <div class="col-xs-6 col-md-3">
               <a href="//vamba.com/" target="_blank" class="thumbnail">
                 <img src="/assets/images/vamba.PNG" alt="Collaboration Portal">
@@ -432,12 +439,6 @@
             <div class="col-xs-6 col-md-3">
               <a href="//learn.hawaiivaloans.com" target="_blank" class="thumbnail">
                 <img src="/assets/images/learn.PNG" alt="Learn Hawaii VA Loans Landing Pages">
-              </a>
-            </div>
-
-            <div class="col-xs-6 col-md-3">
-              <a href="//summit.hawaiivaloans.com" target="_blank" class="thumbnail">
-                <img src="/assets/images/summer.PNG" alt="Summer Summit">
               </a>
             </div>
             
@@ -534,6 +535,19 @@
             
             
           </div>
+
+          <div class="row">
+
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//summit.hawaiivaloans.com" target="_blank" class="thumbnail">
+                <img src="/assets/images/summer.PNG" alt="Summer Summit">
+              </a>
+            </div>
+            
+          </div>
+
+
 
         </div>
       </div>
