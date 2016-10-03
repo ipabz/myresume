@@ -436,25 +436,25 @@
 
             <div class="col-xs-6 col-md-3">
               <a href="//hirecall.ivanclintpabelona.com/" target="_blank" class="thumbnail">
-                <img src="/assets/images/hc.png" alt="Collaboration Portal">
+                <img src="/assets/images/hc.png" width="205" height="100" alt="Collaboration Portal">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//vamba.com/" target="_blank" class="thumbnail">
-                <img src="/assets/images/vamba.PNG" alt="Collaboration Portal">
+                <img src="/assets/images/vamba.PNG" width="205" height="100" alt="Collaboration Portal">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//hawaiivagames.com/" target="_blank" class="thumbnail">
-                <img src="/assets/images/games.PNG" alt="Hawaii VA Games">
+                <img src="/assets/images/games.PNG" width="205" height="100" alt="Hawaii VA Games">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//learn.hawaiivaloans.com" target="_blank" class="thumbnail">
-                <img src="/assets/images/learn.PNG" alt="Learn Hawaii VA Loans Landing Pages">
+                <img src="/assets/images/learn.PNG" width="205" height="100" alt="Learn Hawaii VA Loans Landing Pages">
               </a>
             </div>
             
@@ -467,25 +467,25 @@
 
             <div class="col-xs-6 col-md-3">
               <a href="//hawaiivaloans.com/" target="_blank" class="thumbnail">
-                <img src="/assets/images/hvl.PNG" alt="Hawaii VA Games">
+                <img src="/assets/images/hvl.PNG" width="205" height="100" alt="Hawaii VA Games">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//demo.ivanclintpabelona.com/ebook_classifier" target="_blank" class="thumbnail">
-                <img src="/assets/images/ebook_classifier.PNG" alt="Ebook Classifier">
+                <img src="/assets/images/ebook_classifier.PNG" width="205" height="100" alt="Ebook Classifier">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//mymobilepatron.com/" target="_blank" class="thumbnail">
-                <img src="/assets/images/mmp.PNG" alt="My Mobile Patron">
+                <img src="/assets/images/mmp.PNG" width="205" height="100" alt="My Mobile Patron">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//hawaiiva.org" target="_blank" class="thumbnail">
-                <img src="/assets/images/hawaiiva.PNG" alt="Hawaii VA Foundation">
+                <img src="/assets/images/hawaiiva.PNG" width="205" height="100" alt="Hawaii VA Foundation">
               </a>
             </div>
             
@@ -497,25 +497,25 @@
           <div class="row">
             <div class="col-xs-6 col-md-3">
               <a href="//factorydirect.net.au/" target="_blank" class="thumbnail">
-                <img src="/assets/images/factorydirect.PNG" alt="Factory Direct .Net .Au">
+                <img src="/assets/images/factorydirect.PNG" width="205" height="100" alt="Factory Direct .Net .Au">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//mpr.directbooks.biz/" target="_blank" class="thumbnail">
-                <img src="/assets/images/mpr.PNG" alt="My Place Rental">
+                <img src="/assets/images/mpr.PNG" width="205" height="100" alt="My Place Rental">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a target="_blank" class="thumbnail">
-                <img src="/assets/images/restaurant.png" alt="Restaurant Management System">
+                <img src="/assets/images/restaurant.png" width="205" height="100" alt="Restaurant Management System">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a target="_blank" class="thumbnail">
-                <img src="/assets/images/duck.png" alt="Duck and Bear POS">
+                <img src="/assets/images/duck.png" width="205" height="100" alt="Duck and Bear POS">
               </a>
             </div>
             
@@ -524,7 +524,7 @@
           <div class="row">
             <div class="col-xs-6 col-md-3">
               <a target="_blank" class="thumbnail">
-                <img src="/assets/images/dtr.png" alt="Online DTR">
+                <img src="/assets/images/dtr.png" width="205" height="100" alt="Online DTR">
               </a>
             </div>
 
@@ -532,19 +532,19 @@
 
             <div class="col-xs-6 col-md-3">
               <a target="_blank" class="thumbnail">
-                <img src="/assets/images/digital-story.PNG" alt="Digital Story">
+                <img src="/assets/images/digital-story.PNG" width="205" height="100" alt="Digital Story">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a target="_blank" class="thumbnail">
-                <img src="/assets/images/ehymnal.PNG" alt="E-Hymnal">
+                <img src="/assets/images/ehymnal.PNG" width="205" height="100" alt="E-Hymnal">
               </a>
             </div>
 
             <div class="col-xs-6 col-md-3">
               <a href="//2014.hawaiivagames.com/" target="_blank" class="thumbnail">
-                <img src="/assets/images/hvg2014.PNG" alt="E-Hymnal">
+                <img src="/assets/images/hvg2014.PNG"  width="205" height="100" alt="E-Hymnal">
               </a>
             </div>
 
@@ -557,7 +557,7 @@
 
             <div class="col-xs-6 col-md-3">
               <a href="//summit.hawaiivaloans.com" target="_blank" class="thumbnail">
-                <img src="/assets/images/summer.PNG" alt="Summer Summit">
+                <img src="/assets/images/summer.PNG" width="205" height="100" alt="Summer Summit">
               </a>
             </div>
             
