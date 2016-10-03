@@ -185,6 +185,7 @@
                   <a class="label label-default">XAMPP</a>
                   <a class="label label-default">LAMP</a>
                   <a class="label label-default">Vagrant</a>
+                  <a class="label label-default">Docker</a>
                   <a class="label label-default">LEMP</a>
                   
                 </h5>
