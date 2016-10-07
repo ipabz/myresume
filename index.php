@@ -278,14 +278,14 @@
           <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           
             <div class="panel panel-default">
-              <div class="panel-heading" role="tab" id="headingOne">
+              <div class="panel-heading" role="tab" id="headingOne0">
                 <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne0" aria-expanded="true" aria-controls="collapseOne0">
                     June 2016 to Present - Senior Web Developer / Team Lead @ Upkast IO
                   </a>
                 </h4>
               </div>
-              <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+              <div id="collapseOne0" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne0">
                 <div class="panel-body">
                   <div>Responsibilities</div>
                   <p>
