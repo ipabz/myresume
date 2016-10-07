@@ -277,7 +277,7 @@
 
           <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           
-            <div class="panel panel-default">
+            <!-- <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingOne0">
                 <h4 class="panel-title">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne0" aria-expanded="true" aria-controls="collapseOne0">
@@ -299,7 +299,7 @@
                   
                 </div>
               </div>
-            </div>
+            </div> -->
 
 
             <div class="panel panel-default">
