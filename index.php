@@ -594,9 +594,10 @@
         </div>
       </div>
 
-      <br />&nbsp;
+      <br /><br /><br />&nbsp;
 
       <div class="row text-center">
+        <hr /><br />
         <a href="https://clientarea.ramnode.com/aff.php?aff=3445"><img src="http://www.ramnode.com/images/banners/affbannerlightnewlogoblack.png" alt="high performance ssd vps" /></a> 
       </div>
 
