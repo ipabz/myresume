@@ -594,17 +594,18 @@
         </div>
       </div>
 
-      <br /><br /><br />&nbsp;
+      
+
+    </main>
+
+    <br /><br /><br />&nbsp;
 
       <div class="row text-center">
         <hr /><br />
-        <a href="https://clientarea.ramnode.com/aff.php?aff=3445"><img src="http://www.ramnode.com/images/banners/affbannerlightnewlogoblack.png" alt="high performance ssd vps" /></a> 
+        <a href="https://clientarea.ramnode.com/aff.php?aff=3445"><img src="http://www.ramnode.com/images/banners/afflogo.png" alt="high performance ssd vps" /></a> 
       </div>
 
-      <br />
       <br />&nbsp;
-
-    </main>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="/assets/js/jquery.min.js"></script>
