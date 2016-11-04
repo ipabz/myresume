@@ -602,7 +602,7 @@
       <div class="row text-center">
         <br />
         <a href="https://clientarea.ramnode.com/aff.php?aff=3445"><img src="http://www.ramnode.com/images/banners/affbannerlightnewlogo.png" alt="high performance ssd vps" /></a> 
-        <br />
+        <br /><br />&nbsp;
       </div>
     </div>
 
