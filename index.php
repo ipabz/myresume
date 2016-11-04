@@ -598,11 +598,13 @@
 
     </main>
 
-
+    <div class="container">
       <div class="row text-center">
         <br />
-        <a href="https://clientarea.ramnode.com/aff.php?aff=3445"><img src="http://www.ramnode.com/images/banners/afflogo.png" alt="high performance ssd vps" /></a> 
+        <a href="https://clientarea.ramnode.com/aff.php?aff=3445"><img src="http://www.ramnode.com/images/banners/affbannerlightnewlogo.png" alt="high performance ssd vps" /></a> 
+        <br />
       </div>
+    </div>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
