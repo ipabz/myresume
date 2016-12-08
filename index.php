@@ -300,6 +300,32 @@
                 </div>
               </div>
             </div> -->
+            
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab" id="headingOne0">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne0" aria-expanded="true" aria-controls="collapseOne0">
+                    October 2016 to Present - Web Developer & Programmer @ Global Netcom LTD
+                  </a>
+                </h4>
+              </div>
+              <div id="collapseOne0" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne0">
+                <div class="panel-body">
+                  <div>Responsibilities</div>
+                  <p>
+                    <ul>
+                      <li>PHP programming ­ Maintaining and creating applications, api integrations and databases</li>
+                      <li>Urgent bug fixes</li>
+                      <li>Linux server maintenance</li>
+                      <li>Testing all code committed</li>
+                      <li>Search Engine Optimizations</li>
+                      <li>UI Designs</li>
+                    </ul>
+                  </p>
+                  
+                </div>
+              </div>
+            </div>
 
 
             <div class="panel panel-default">
