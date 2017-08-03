@@ -55,13 +55,13 @@
     
     <main class="container">
 
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-xs-12 col-md-12">
           <div class="text-right">
             <a style="" href="/assets/ivanclintpabelona-myresume.pdf"><span class="glyphicon glyphicon-save"></span> Download PDF </a>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <br />
 
@@ -78,7 +78,7 @@
           
           <div class="well desc">
             <p>
-              I'm a freelance web developer based in the Philippines. I have been into web development for 9+ years now. I'm using PHP, CSS, Javascript, JQuery, HTML, Bootstrap , CodeIgniter, Laravel and wordpress in developing softwares.
+              I'm a freelance web developer based in the Philippines. I have been into web development for 9+ years now. I'm using PHP, CSS, Javascript, JQuery, HTML, Bootstrap , Laravel, Slim, CodeIgniter and wordpress in developing softwares.
             </p>
             <p>
               I work with a huge range of companies from personal bloggers to Councils. I'm a creative problem solver who is not afraid to push the envelope of my skill set and provide new solutions.
@@ -133,6 +133,7 @@
                   <a class="label label-default">Java</a>
                   <a class="label label-default">Javascript</a>
                   <a class="label label-default">JQuery</a>
+                  <a class="label label-default">VueJS</a>
                   <a class="label label-default">AJAX</a>
                   <a class="label label-default">HTML</a>
                   <a class="label label-default">HTML 5</a>
@@ -140,6 +141,7 @@
                   <a class="label label-default">CSS3</a>
                   <a class="label label-default">JSON</a>
                   <a class="label label-default">XML</a>
+                  <a class="label label-default">Swift 3</a>
                 </h5>
               </div>
             </div>
@@ -150,7 +152,6 @@
                 <h5>
                   <a class="label label-default">Wordpress</a>
                   <a class="label label-default">Joomla</a>
-                  <a class="label label-default">Zendcart</a>
                   
                 </h5>
               </div>
@@ -160,9 +161,9 @@
               <div class="col-xs-12 col-md-2"><h4>Frameworks</h4></div>
               <div class="col-xs-12 col-md-10">
                 <h5>
-                  <a class="label label-default">CodeIgniter</a>
                   <a class="label label-default">Laravel</a>
-                   <a class="label label-default">Slim</a>
+                  <a class="label label-default">Slim</a>
+                  <a class="label label-default">CodeIgniter</a>
                   
                 </h5>
               </div>
@@ -172,10 +173,12 @@
               <div class="col-xs-12 col-md-2"><h4>Softwares</h4></div>
               <div class="col-xs-12 col-md-10">
                 <h5>
-                  <a class="label label-default">Sublime Text 2</a>
-                  <a class="label label-default">PHPStorm</a>
+                  <a class="label label-default">PhpStorm</a>
+                  <a class="label label-default">Sublime Text</a>
+                  <a class="label label-default">VS Code</a>
+                  <a class="label label-default">Xcode</a>
                   <a class="label label-default">Netbeans</a>
-                  <a class="label label-default">Adobe Dream Weaver</a>
+                  <a class="label label-default">Laravel Valet</a>
                   <a class="label label-default">Adobe Fireworks</a>
                   <a class="label label-default">Adobe Photoshop</a>
                   <a class="label label-default">Navicat</a>
@@ -209,6 +212,7 @@
               <div class="col-xs-12 col-md-2"><h4>Operating Systems</h4></div>
               <div class="col-xs-12 col-md-10">
                 <h5>
+                  <a class="label label-default">Mac OS</a>
                   <a class="label label-default">Windows</a>
                   <a class="label label-default">Linux</a>
                   <a class="label label-default">Android</a>
@@ -233,6 +237,7 @@
                 <h5>
                   <a class="label label-default">Stripe</a>
                   <a class="label label-default">Paypal</a>
+                  <a class="label label-default">BrainTree</a>
                   
                 </h5>
               </div>
@@ -277,32 +282,10 @@
 
           <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           
-            <!--<div class="panel panel-default">
-              <div class="panel-heading" role="tab" id="headingOne0">
-                <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne0" aria-expanded="true" aria-controls="collapseOne0">
-                    June 2016 to Present - Senior Web Developer / Team Lead @ Upkast IO
-                  </a>
-                </h4>
-              </div>
-              <div id="collapseOne0" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne0">
-                <div class="panel-body">
-                  <div>Responsibilities</div>
-                  <p>
-                    <ul>
-                      <li>PHP programming ­ Maintaining and creating applications, api integrations and databases</li>
-                      <li>Urgent bug fixes</li>
-                      <li>Linux server maintenance</li>
-                      <li>Testing all code committed</li>
-                    </ul>
-                  </p>
-                  
-                </div>
-              </div>
-            </div>
-            -->
             
-            <div class="panel panel-default">
+            
+            
+            <!-- <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingOne0">
                 <h4 class="panel-title">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne0" aria-expanded="true" aria-controls="collapseOne0">
@@ -321,6 +304,55 @@
                       <li>Testing all code committed</li>
                       <li>Search Engine Optimizations</li>
                       <li>UI Designs</li>
+                    </ul>
+                  </p>
+                  
+                </div>
+              </div>
+            </div> -->
+
+
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab" id="headingOne0-2">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne0-2" aria-expanded="true" aria-controls="collapseOne0-2">
+                    October 2016 to Present - Web Developer @ ADZbuzz LTD
+                  </a>
+                </h4>
+              </div>
+              <div id="collapseOne0-2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne0-2">
+                <div class="panel-body">
+                  <div>Responsibilities</div>
+                  <p>
+                    <ul>
+                      <li>PHP programming ­ Maintaining and creating applications, api integrations and databases</li>
+                      <li>Urgent bug fixes</li>
+                      <li>Testing all code committed</li>
+                    </ul>
+                  </p>
+                  
+                </div>
+              </div>
+            </div>
+
+
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab" id="headingOne0-1">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne0-1" aria-expanded="true" aria-controls="collapseOne0-1">
+                    June 2016 to Present - Senior Web Developer / Team Lead / Co-Owner @ Upkast IO
+                  </a>
+                </h4>
+              </div>
+              <div id="collapseOne0-1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne0-1">
+                <div class="panel-body">
+                  <div>Responsibilities</div>
+                  <p>
+                    <ul>
+                      <li>PHP programming ­ Maintaining and creating applications, api integrations and databases</li>
+                      <li>Urgent bug fixes</li>
+                      <li>Linux server maintenance</li>
+                      <li>Testing all code committed</li>
                     </ul>
                   </p>
                   
@@ -483,9 +515,40 @@
           <h2><span class="glyphicon glyphicon-bookmark"></span> Recent Work</h2>
           <br />
 
+          <div class="row">
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//ipabz.github.io/flunky/" target="_blank" class="thumbnail">
+                <img src="/assets/images/flunky.png"  alt="Flunky">
+              </a>
+            </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//adzbuzz.com" target="_blank" class="thumbnail">
+                <img src="/assets/images/adzbuzz.png"  alt="ADZbuzz">
+              </a>
+            </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//forum.adzbuzz.com" target="_blank" class="thumbnail">
+                <img src="/assets/images/adzbuzz-form.png"  alt="ADZbuzz Forum">
+              </a>
+            </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//savers.adzbuzz.com" target="_blank" class="thumbnail">
+                <img src="/assets/images/adzbuzz-savers.png"  alt="ADZbuzz Savers">
+              </a>
+            </div>
+
+            
+
+          </div>
           
 
           <div class="row">
+
+            
 
             <div class="col-xs-6 col-md-3">
               <a href="//hirecall.ivanclintpabelona.com/" target="_blank" class="thumbnail">
@@ -506,23 +569,20 @@
             </div>
 
             <div class="col-xs-6 col-md-3">
-              <a href="//learn.hawaiivaloans.com" target="_blank" class="thumbnail">
-                <img src="/assets/images/learn.PNG"  alt="Learn Hawaii VA Loans Landing Pages">
+              <a href="//hawaiivaloans.com/" target="_blank" class="thumbnail">
+                <img src="/assets/images/hvl.PNG"  alt="Hawaii VA Games">
               </a>
             </div>
+
+            
             
           </div>
 
 
 
-          <div class="row">
-            
 
-            <div class="col-xs-6 col-md-3">
-              <a href="//hawaiivaloans.com/" target="_blank" class="thumbnail">
-                <img src="/assets/images/hvl.PNG"  alt="Hawaii VA Games">
-              </a>
-            </div>
+
+          <div class="row">
 
             <div class="col-xs-6 col-md-3">
               <a href="//demo.ivanclintpabelona.com/ebook_classifier" target="_blank" class="thumbnail">
@@ -539,6 +599,12 @@
             <div class="col-xs-6 col-md-3">
               <a href="//hawaiiva.org" target="_blank" class="thumbnail">
                 <img src="/assets/images/hawaiiva.PNG"  alt="Hawaii VA Foundation">
+              </a>
+            </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//learn.hawaiivaloans.com" target="_blank" class="thumbnail">
+                <img src="/assets/images/learn.PNG"  alt="Learn Hawaii VA Loans Landing Pages">
               </a>
             </div>
             
@@ -613,6 +679,20 @@
                 <img src="/assets/images/summer.PNG"  alt="Summer Summit">
               </a>
             </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a href="//services.adzbuzz.com" target="_blank" class="thumbnail">
+                <img src="/assets/images/adzbuzz-services.png"  alt="ADZbuzz Services">
+              </a>
+            </div>
+
+            <div class="col-xs-6 col-md-3">
+              <a href="" target="_blank" class="thumbnail">
+                <img src="/assets/images/backfence.png"  alt="Classified Site">
+              </a>
+            </div>
+
+            
             
           </div>
 
