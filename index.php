@@ -336,11 +336,11 @@
             </div>
 
 
-            <div class="panel panel-default">
+            <!-- <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingOne0-1">
                 <h4 class="panel-title">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne0-1" aria-expanded="true" aria-controls="collapseOne0-1">
-                    June 2015 to Present - Senior Web Developer / Team Lead / Co-Owner @ Upkast IO
+                    June 2016 to Present - Senior Web Developer / Team Lead / Co-Owner @ Upkast IO
                   </a>
                 </h4>
               </div>
@@ -358,7 +358,7 @@
                   
                 </div>
               </div>
-            </div>
+            </div> -->
             
 
             <div class="panel panel-default">
