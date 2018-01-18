@@ -78,7 +78,7 @@
           
           <div class="well desc">
             <p>
-              I'm a freelance web developer based in the Philippines. I have been into web development for 9+ years now. I'm using PHP, CSS, Javascript, JQuery, HTML, Bootstrap , Laravel, Slim, CodeIgniter and wordpress in developing softwares.
+              I'm a web developer based in the Philippines. I have been into web development for 9+ years now. I'm using PHP, CSS, Javascript, JQuery, HTML, Bootstrap , Laravel, Slim, CodeIgniter and wordpress in developing softwares.
             </p>
             <p>
               I work with a huge range of companies from personal bloggers to Councils. I'm a creative problem solver who is not afraid to push the envelope of my skill set and provide new solutions.
