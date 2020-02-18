@@ -18,22 +18,6 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     
-    <!-- Matomo -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//analytics.upkast.io/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', '1']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
-    
   </head>
   <body data-spy="scroll" data-target="#navbar-example">
 
@@ -95,7 +79,7 @@
           
           <div class="well desc">
             <p>
-              I'm a web developer based in the Philippines. I have been into web development for 9+ years now. I'm using PHP, CSS, Javascript, JQuery, HTML, Bootstrap , Laravel, Slim, CodeIgniter and wordpress in developing softwares.
+              I'm a web developer based in the Philippines. I have been into web development for 10+ years now. I'm using PHP, CSS, Javascript, JQuery, HTML, Bootstrap , Laravel, Slim, CodeIgniter and wordpress in developing softwares.
             </p>
             <p>
               I work with a huge range of companies from personal bloggers to Councils. I'm a creative problem solver who is not afraid to push the envelope of my skill set and provide new solutions.
